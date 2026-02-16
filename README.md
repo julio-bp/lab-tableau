@@ -30,7 +30,6 @@ Upon completion of this lab, you will be able to:
 
 7. **State Treeplot Sheet**: Create a sheet with a treeplot (also known as a treemap) illustrating the number of customers in each **State**.
 
-8. **Marital Status and Gender Cross Table**: Generate a cross table that breaks down the customers by Marital status and Gender.
 
 9. **Dashboard Assembly**: Compile all the created sheets into a single, interactive dashboard for an integrated view of the data insights.
 
